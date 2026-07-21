@@ -1,0 +1,38 @@
+# 不上传任何代码
+*.py
+*.pyc
+__pycache__/
+*.so
+
+# 不上传数据
+*.db
+*.duckdb
+*.parquet
+*.json
+*.yaml
+*.yml
+.env
+
+# 不上传报告
+*.pdf
+*.html
+*.csv
+
+# 不上传日志
+*.log
+*.jsonl
+
+# 不上传 venv
+venv/
+.venv/
+
+# 不上传缓存
+.pytest_cache/
+.ruff_cache/
+.hypothesis/
+.codegraph/
+
+# 只保留 .md 文档
+!*.md
+!README.md
+!ARCHITECTURE.md
