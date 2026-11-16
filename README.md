@@ -220,6 +220,10 @@ OpenClaw cron 调度器（19 个任务）
 | 测试 | pytest |
 | 外部 API | 腾讯 / 新浪 / 东财 / mootdx / Tavily / SEC EDGAR / Yahoo |
 
+## 公司研究报告样例
+
+[金安国纪（002636.SZ）综合研究报告 · 2026-11-12](samples/jingan-research-20261112.md) — 在 GitHub 逐页阅读原报告，也可查看文字提取版或下载 PDF。报告保留当时的研究时点、框架数据缺口与补充材料说明。
+
 ---
 
 ## 许可
